@@ -2,6 +2,8 @@
 
 Welcome to the Exploratory Analysis of the Airbnb Dataset! In this project, we aim to understand Airbnb rental landscape in New York City through exploratory analysis on the Airbnb dataset. Through static and interactive visualizations, we will try to find the influence of various factors on price of the houses.
 
+##### -- Project Status: [Completed]
+
 ## Conclusion
 
 * Most listings are for private and entire apartment, which concludes that most people dont like live in shared room/apartment. People who prefer share rooms must be tourists.
